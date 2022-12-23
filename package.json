@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-pracc",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "node index.js localhost:1337"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxieo/nodeJS-pracc.git"
+  },
+  "author": "Maxim Ostrovsky <maxim.ostrovsky@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxieo/nodeJS-pracc/issues"
+  },
+  "homepage": "https://github.com/maxieo/nodeJS-pracc#readme"
+}
